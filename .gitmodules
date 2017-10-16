@@ -1,0 +1,3 @@
+[submodule "bar"]
+	path = bar
+	url = https://github.com/palmin/bar
